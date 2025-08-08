@@ -1,12 +1,14 @@
 # 🧮 Calculadora Simples em Python
-📌 Descrição
+## 📌 Descrição
 Desenvolvi uma calculadora simples que permite ao usuário realizar operações matemáticas básicas como adição, subtração, multiplicação e divisão e com mais algumas coisa adicionas voltado a área de matemática.
 Esse projeto foi criado em Python com foco em aplicar conceitos fundamentais de lógica de programação, manipulação de entrada do usuário e estruturas condicionais.
+
+---
 
 ## ⚙️ Especificações Técnicas
 Linguagem: Python 3
 
-Funcionalidades:
+## Funcionalidades:
 
 ➕ Adição
 
@@ -16,7 +18,7 @@ Funcionalidades:
 
 ➗ Divisão
 
-
+---
 
 ## 📥 Instalação
 Siga os passos para rodar o projeto no seu computador:
@@ -29,7 +31,7 @@ Abra o terminal na pasta do projeto e execute:
 
 python calculadora.py
 
-
+---
 
 ## 📝 Como Usar
 Escolha a operação desejada digitando o número correspondente.
